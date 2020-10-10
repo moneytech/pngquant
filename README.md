@@ -49,7 +49,7 @@ Don't write converted files if the conversion isn't worth it.
 
 ### `--speed N`
 
-Speed/quality trade-off from 1 (slowest, highest quality, smallest files) to 11 (fastest, less consistent quality, light comperssion). The default is 3. It's recommended to keep the default, unless you need to generate images in real time (e.g. map tiles). Higher speeds are fine with 256 colors, but don't handle lower number of colors well.
+Speed/quality trade-off from 1 (slowest, highest quality, smallest files) to 11 (fastest, less consistent quality, light comperssion). The default is 4. It's recommended to keep the default, unless you need to generate images in real time (e.g. map tiles). Higher speeds are fine with 256 colors, but don't handle lower number of colors well.
 
 ### `--nofs`
 
@@ -75,4 +75,4 @@ pngquant is dual-licensed:
 
 * Under **GPL v3** or later with an additional [copyright notice](https://github.com/kornelski/pngquant/blob/master/COPYRIGHT) that must be kept for the older parts of the code.
 
-* Or [a **commercial license**](https://supportedsource.org/projects/pngquant) for use in non-GPL software (e.g. closed-source or App Store distribution). You can [get the license via Supported Source](https://supportedsource.org/projects/pngquant/purchase). Email kornel@pngquant.org if you have any questions.
+* Or [a **commercial license**](https://supso.org/projects/pngquant) for use in non-GPL software (e.g. closed-source or App Store distribution). You can [get the license via Super Source](https://supso.org/projects/pngquant). Email kornel@pngquant.org if you have any questions.
